@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/solution-screenshot.jpg)
+![](./design/solution-screenshot.png)
 
 ### Links
 
